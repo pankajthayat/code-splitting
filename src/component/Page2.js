@@ -14,4 +14,4 @@ const Page2 = ({ onRouteChange }) =>(
   </div>
 )
 
-export default Page2;
+export  {Page2};
